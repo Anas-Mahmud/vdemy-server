@@ -17,7 +17,7 @@
         "time": 109.3,
         "description": "Created by Facebook, the React framework has earned popularity very quickly. It is used to develop and operate the dynamic User Interface of web pages with high incoming traffic. It makes use of a virtual DOM, and hence, integration with any application is more straightforward.",
         "category": "men's clothing",
-        "image": "hhttps://codegeekz.com/wp-content/uploads/reactjs.png",
+        "image": "https://codegeekz.com/wp-content/uploads/reactjs.png",
         "rating": {
             "rate": 4.1,
             "view": 259
